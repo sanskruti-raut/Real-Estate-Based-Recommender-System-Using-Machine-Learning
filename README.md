@@ -1,4 +1,5 @@
 # Real-Estate-Based-Recommender-System-Using-Machine-Learning
+This repository contains the code and documentation for a machine learning project focused on recommender systems for real estate using machine learning algorithms. The project was completed as part of the course at Maharashtra Institute if Technology (WPU), Pune.
 ![image](https://github.com/sanskruti-raut/Real-Estate-Based-Recommender-System-Using-Machine-Learning/assets/56341170/92eca603-2e07-4387-8f24-5bc0f5f89bed)
 ![image](https://github.com/sanskruti-raut/Real-Estate-Based-Recommender-System-Using-Machine-Learning/assets/56341170/134c43cb-720e-4e2b-9330-35df0bb800d2)
 ![image](https://github.com/sanskruti-raut/Real-Estate-Based-Recommender-System-Using-Machine-Learning/assets/56341170/e5cd7bb5-c2ba-4414-8201-558c5c524d4b)
